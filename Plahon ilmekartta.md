@@ -27,5 +27,23 @@ Plahon pelokkaat ilmeet
 <img width="1920" height="1080" alt="Plaho_Pelko_IO" src="https://github.com/user-attachments/assets/bafb2051-38b5-4eaf-a84b-a4796d981aa4" />
 <img width="1920" height="1080" alt="Plaho_Pelko_II" src="https://github.com/user-attachments/assets/b0ed851d-d8fd-45e4-95f6-bae665a72030" />
 
+Plahon vihaiset ilmeet
 
+<img width="1920" height="1080" alt="Plaho_Viha_OO" src="https://github.com/user-attachments/assets/1a79ece9-43c1-4e3e-a3dd-7761dbe4e599" />
+<img width="1920" height="1080" alt="Plaho_Viha_OI" src="https://github.com/user-attachments/assets/528ad841-df99-4bae-a50c-1f13cdf80d49" />
+<img width="1920" height="1080" alt="Plaho_Viha_IO" src="https://github.com/user-attachments/assets/a83854de-460d-4a5b-aea9-b6eef91bcce5" />
+<img width="1920" height="1080" alt="Plaho_Viha_II" src="https://github.com/user-attachments/assets/5a5e22ba-5b77-40e3-87f7-e52852617a57" />
 
+Plahon yllättyneet ilmeet
+
+<img width="1920" height="1080" alt="Plaho_Yllattynyt_OO" src="https://github.com/user-attachments/assets/27ce9d19-7e99-4218-bdaf-387ef927c947" />
+<img width="1920" height="1080" alt="Plaho_Yllattynyt_OI" src="https://github.com/user-attachments/assets/4f1dc015-ed0c-40ff-b96c-338cf2750b0b" />
+<img width="1920" height="1080" alt="Plaho_Yllattynyt_IO" src="https://github.com/user-attachments/assets/cc5bf0bc-0560-4957-91ca-a1c0899888ff" />
+<img width="1920" height="1080" alt="Plaho_Yllattynyt_II" src="https://github.com/user-attachments/assets/0e92a1b5-e854-4eae-87ee-dfff61bb5a96" />
+
+Plahon ällöttyneet ilmeet
+
+<img width="1920" height="1080" alt="Plaho_allotys_OO" src="https://github.com/user-attachments/assets/ce8331c3-cd55-4662-9b48-9fd6a9f3a52a" />
+<img width="1920" height="1080" alt="Plaho_allotys_OI" src="https://github.com/user-attachments/assets/df1b7592-02f7-42ae-ae6c-eec86fd1fc68" />
+<img width="1920" height="1080" alt="Plaho_allotys_IO" src="https://github.com/user-attachments/assets/f6a00362-8a6d-436e-ac3d-a606cf58db1d" />
+<img width="1920" height="1080" alt="Plaho_allotys_II" src="https://github.com/user-attachments/assets/a4d9ad5a-9f5b-493f-9040-954ddf380ca3" />
