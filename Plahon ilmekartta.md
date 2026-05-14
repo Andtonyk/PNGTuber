@@ -9,11 +9,8 @@ Plahon neutraalit ilmeet
 Plahon iloiset ilmeet
 
 <img width="1920" height="1080" alt="Plaho_Ilo_OO" src="https://github.com/user-attachments/assets/99e04034-47d3-48f2-9ded-3b25f4e9ec3f" />
-
 <img width="1920" height="1080" alt="Plaho_Ilo_OI" src="https://github.com/user-attachments/assets/38ab49e0-754e-4af0-aafc-97e3a525df43" />
-
 <img width="1920" height="1080" alt="Plaho_Ilo_IO" src="https://github.com/user-attachments/assets/f8463768-16c7-4b23-b4bc-0919373480f5" />
-
 <img width="1920" height="1080" alt="Plaho_Ilo_II" src="https://github.com/user-attachments/assets/8ca6b9b3-a554-42d2-9f1e-af6911b3ef40" />
 
 
