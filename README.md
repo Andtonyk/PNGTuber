@@ -9,3 +9,5 @@ Ladatavissa: https://obsproject.com/
 
 Krita: https://krita.org/en/
 Ladattavissa: https://krita.org/en/download/
+
+Plahon ilmekartta.md sisältää muodostetut ilmepohjat.
